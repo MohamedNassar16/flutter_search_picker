@@ -1,4 +1,5 @@
-# flutter_search_picker
+# flutter_search_picker [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://pub.dev/packages/search_picker/versions/1.0.0+1)
+
 Search picker which shows a list, gives the ability to search and return the selected item.
 
 ## Getting started
